@@ -1,0 +1,57 @@
+<html>
+<head>
+    <title>Simple Form Fornt Page  </title>
+</head>
+    <body>
+        
+        <form>
+<!--
+            <input>
+            <lable></lable>
+            <select></select>
+            <option></option>
+            <textarea></textarea>
+            <button></button>
+-->
+            <lable>Username</lable>
+            <br>
+            <input type="text" placeholder="username" required>
+            <br>
+            <lable>EmailID</lable>
+            <br>
+            <input type="email" placeholder="email" required>
+            <br>
+            <lable>Password</lable>
+            <br>
+            <input type="password" placeholder="password" required>
+            <br>
+            <lable>Gender</lable>
+            <br>
+            <input type="radio" name="gender" checked><lable>Male</lable>
+            <input type="radio" name="gender"><lable>Female</lable>
+            <br>
+            <input type="checkbox"><lable>I accept the term & conditions </lable>
+            <br>
+            <lable>Message</lable>
+            <br>
+            <textarea placeholder="write your message here"></textarea>
+            <br>
+            <lable>Upload files</lable>
+            <br>
+            <input type="file">
+            <br>
+            <lable>Select Model</lable>
+            <br>
+    
+                <select>
+                    <option>Redmi Note 9 Pro Max</option>
+                <option>Apple 13  </option>
+                <option>Apple 12 </option>
+                <option>Apple 13 </option>
+            </select>
+            <br>
+            <button type="submit">submit</button>
+            <button type="reset">reset</button>
+        </form>
+    </body>
+</html>

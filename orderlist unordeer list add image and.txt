@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <title>
+            hello everyone
+        </title>
+    </head>
+    <body>
+        <ol>
+            <li>god is everywhere</li>
+            <li>please follow the rules</li>
+            <li>give your best </li>
+            <li>this is basic things you should know</li>
+        </ol>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        
+           <table border="1">
+             <tr>
+               <th>No.</th>
+               <th>Company</th>
+               <th>Model</th>
+               </tr>
+             <tr>
+               <td>01</td>
+               <td>Samsung</td>
+               <td>note9</td>
+            </tr>
+                <tr>
+               <td>02</td>
+               <td>redmi</td>
+               <td>pro max</td>
+            </tr>
+                <tr>
+               <td>03</td>
+               <td>Apple</td>
+               <td>13 mini</td>
+            </tr>
+        </table>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <lable>Samsung Note 9</lable>
+        <br>
+        <img src="4075428-5-687a35d8b585453881b23c6632f93576.webp">
+        <br>
+        <lable>iphone 13 mini</lable>
+        <br>
+        <img src="iPhone_13_Mini_(9)_1633111760137_1633111770414.webp">
+        <br>
+        <lable>Redmi Note 9 pro max</lable>
+        <br>
+        <img src="119601-redmi6.webp">
+    </body>
+    </html>
